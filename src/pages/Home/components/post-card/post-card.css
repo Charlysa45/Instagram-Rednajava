@@ -1,0 +1,121 @@
+.postCard{
+    border-radius: 8px;
+    border: 1px solid #E4E4E4;
+}
+figure{
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+}
+button{
+    border: none;
+    background: none;
+    padding: 0px;
+    margin: 0px;
+}
+.postCard-top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.postCard-top-left{
+    display: flex;
+    align-items: center;
+}
+.postCard-top-left-innerLeft-figure img{
+    width: 32px;
+    height: fit-content;
+    padding: 0;
+    margin: 0;
+    border-radius: 50%;
+}
+.postCard-top-left-innerLeft-figure{
+    display: flex;
+    align-items: center;
+}
+.postCard-top-left-innerLeft{
+    display: flex;
+    align-items: center;
+    margin: 8px 4px 8px 12px;
+}
+.postCard-top-left-innerRight{
+    margin-left: 12px;
+}
+
+.postCard-top-left-innerRight span{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.postCard-top-right{
+    padding: 8px;
+}
+.postCard-middle-topContainer-figure-img{
+    width: 100%;
+}
+.postCard-middle-bottomContainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.postCard-middle-bottomContainer-innerLeft img{
+    width: 22px;
+    height: 21px;
+    padding: 8px 0px 8px 20px;
+}
+.postCard-middle-bottomContainer-innerRight img{
+    width: 18px;
+    height: 20px;
+    padding: 8px 20px 8px 0px;
+}
+.postCard-bottom-container{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px 20px 0px 20px;
+}
+.postCard-bottom-container-likes{
+    margin-bottom: 8px;
+}
+.postCard-bottom-container-likes span{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+}
+.postCard-bottom-container-description{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+}
+.postCard-bottom-container-description-user{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+}
+.postCard-bottom-container-description-description{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    margin-left: 5px;
+}
+.postCard-bottom-container-description-comments{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+}
+.postCard-bottom-container-description-comments img{
+    width: 12px;
+}
+.postCard-bottom-container-description-time{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    margin-top: 15px;
+    margin-bottom: 12px;
+    color:#8b8b8b;
+}
+
