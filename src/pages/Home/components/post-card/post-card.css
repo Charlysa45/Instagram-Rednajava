@@ -52,6 +52,9 @@ button{
 .postCard-top-right{
     padding: 8px;
 }
+.postCard-top-right-button{
+    font-size: 15px;
+}
 .postCard-middle-topContainer-figure-img{
     width: 100%;
 }

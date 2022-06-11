@@ -3,7 +3,10 @@ import likes from '../../../../assets/icons/header-favs-icon.png';
 import comments from '../../../../assets/icons/comments.png';
 import messages from '../../../../assets/icons/header-messages-icon.png';
 import save from '../../../../assets/icons/save.png';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faEllipsis } from '@fortawesome/free-solid-svg-icons';
 import './post-card.css';
+
 
 const PostCard = () => {
     return (
@@ -27,7 +30,7 @@ const PostCard = () => {
 
                 <div className="postCard-top-right">
                     <button>
-                        <i className="fa-solid fa-ellipsis"></i>
+                        <FontAwesomeIcon icon={faEllipsis} className="postCard-top-right-button" />
                     </button>
 
                 </div>
