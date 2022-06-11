@@ -1,0 +1,36 @@
+@media (max-width: 412px) and (max-width: 915px) {
+    header{
+        padding-left: 16px;
+        padding-right: 16px;
+        padding-top: 12px;
+        padding-bottom: 9px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-between;
+        align-items: center;
+        border-bottom: 1px solid rgb(216, 214, 214);
+    }
+
+    #header-logo{
+        margin-top: 7px;
+    }
+
+    #header-logo-img{
+        width: 103px;
+        height: 29px;
+    }
+
+    .header-options-icon{
+        width: 22px;
+        height: 22px;
+        margin-left: 23px;
+    }
+
+    #header-profile-avatar{
+        width: 24px;
+        height: 24px;
+        margin-left: 23px;
+        border-radius: 100%;
+    }
+
+}
