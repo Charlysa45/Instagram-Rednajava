@@ -3,9 +3,9 @@ import './Header.css'
 import instaLogo from '../../../../assets/instagram-text.png'
 import homeIcon from '../../../../assets/icons/header-home-icon.png'
 import messagesIcon from '../../../../assets/icons/header-messages-icon.png'
-import createIcon from '../../../../assets/icons/header-create-icon.PNG'
-import exploreIcon from '../../../../assets/icons/header-explore-icon.PNG'
-import favsIcon from '../../../../assets/icons/header-favs-icon.PNG'
+import createIcon from '../../../../assets/icons/header-create-icon.png'
+import exploreIcon from '../../../../assets/icons/header-explore-icon.png'
+import favsIcon from '../../../../assets/icons/header-favs-icon.png'
 import profileAvatar from '../../../../assets/header-profile-avatar.jpg'
 
 
