@@ -7,7 +7,14 @@
             "likes": 32,
             "description": "Rural Side of Italy",
             "userFirstComment": "Samuel",
-            "fisrtComment": "Great place!!!"
+            "fisrtComment": "Great place!!!",
+            "stories": [
+                {
+                    "video1": "video1",
+                    "video2": "video2",
+                    "video3": "video3"
+                }
+            ]
         },
         {
             "avatarUrl": "https://st2.depositphotos.com/1009634/7235/v/450/depositphotos_72350117-stock-illustration-no-user-profile-picture-hand.jpg",
@@ -16,7 +23,14 @@
             "likes": 110,
             "description": "My friends and Spain",
             "userFirstComment": "Viktor",
-            "fisrtComment": "We had a good time, let's repeat it =)"
+            "fisrtComment": "We had a good time, let's repeat it =)", 
+            "stories": [
+                {
+                    "video1": "video1",
+                    "video2": "video2",
+                    "video3": "video3"
+                }
+            ]
         },
         {
             "avatarUrl": "https://wallpaperaccess.com/full/2213424.jpg",
@@ -25,14 +39,36 @@
             "likes": 15,
             "description": "Took this one yesterday, u like it?",
             "userFirstComment": "Karen",
-            "fisrtComment": "I love it"
+            "fisrtComment": "I love it",
+            "stories": [
+                {
+                    "video1": "video1"
+                },
+                {
+                    "video2": "video2"
+                },
+                {
+                    "video3": "video3"
+                }
+            ]
         },
         {
             "avatarUrl": "https://www.seekpng.com/png/detail/506-5061704_cool-profile-avatar-picture-cool-picture-for-profile.png",
             "user": "AnimeFanboy",
             "imgUrl": "https://www.egames.news/__export/1644622878517/sites/debate/img/2021/09/20/naruto_modo_barixn_hace_su_debut_oficial_en_el_anime_de_boruto.jpg_1902800913.jpg",
             "likes": 1,
-            "description": "I cried on this episode unu"
+            "description": "I cried on this episode unu",
+            "stories": [
+                {
+                    "video1": "video1"
+                },
+                {
+                    "video2": "video2"
+                },
+                {
+                    "video3": "video3"
+                }
+            ]
         },
         {
             "avatarUrl": "https://i2-prod.walesonline.co.uk/news/uk-news/article23927263.ece/ALTERNATES/s1200c/0_F038F02A-D11F-11EC-A042-0A2111BCB09D.jpg",
@@ -59,7 +95,18 @@
             "likes": 2,
             "description": "Get into NFTS now losers",
             "userFirstComment": "Noah",
-            "fisrtComment": "No thanks."
+            "fisrtComment": "No thanks.",
+            "stories": [
+                {
+                    "video1": "video1"
+                },
+                {
+                    "video2": "video2"
+                },
+                {
+                    "video3": "video3"
+                }
+            ]
         },
         {
             "avatarUrl": "https://i.pinimg.com/originals/d9/56/9b/d9569bbed4393e2ceb1af7ba64fdf86a.jpg",
@@ -84,7 +131,18 @@
             "likes": 315,
             "description": "Walking afternoon",
             "userFirstComment": "Ava",
-            "fisrtComment": "I was there too :O"
+            "fisrtComment": "I was there too :O",
+            "stories": [
+                {
+                    "video1": "video1"
+                },
+                {
+                    "video2": "video2"
+                },
+                {
+                    "video3": "video3"
+                }
+            ]
         },
         {
             "avatarUrl": "https://shotkit.com/wp-content/uploads/2021/06/cool-profile-pic-matheus-ferrero.jpeg",
@@ -107,7 +165,18 @@
             "user": "Benjamin",
             "imgUrl": "https://media.wired.com/photos/5ea306a39d94950008221206/master/pass/Cul-bookstore-1220322748.jpg",
             "likes": 32,
-            "description": "B]"
+            "description": "B]",
+            "stories": [
+                {
+                    "video1": "video1"
+                },
+                {
+                    "video2": "video2"
+                },
+                {
+                    "video3": "video3"
+                }
+            ]
         },
         {
             "avatarUrl": "https://d2qp0siotla746.cloudfront.net/img/use-cases/profile-picture/template_3.jpg",
@@ -130,7 +199,18 @@
             "likes": 1455,
             "description": "We discovered that there was FRAUD in the Colombian elections and we will take actions against the responsible #Anonymous",
             "userFirstComment": "Harper",
-            "fisrtComment": "I dont believe anything from you bastards"
+            "fisrtComment": "I dont believe anything from you bastards",
+            "stories": [
+                {
+                    "video1": "video1"
+                },
+                {
+                    "video2": "video2"
+                },
+                {
+                    "video3": "video3"
+                }
+            ]
         },
         {
             "avatarUrl": "https://www.profesionalreview.com/wp-content/uploads/2018/04/C%C3%B3mo-descargar-todos-los-datos-que-Facebook-tiene-sobre-ti-3.jpg",
@@ -157,7 +237,18 @@
             "likes": 168,
             "description": "I am getting married with my co-worker :$",
             "userFirstComment": "Samantha",
-            "fisrtComment": "But I love you too :C"
+            "fisrtComment": "But I love you too :C",
+            "stories": [
+                {
+                    "video1": "video1"
+                },
+                {
+                    "video2": "video2"
+                },
+                {
+                    "video3": "video3"
+                }
+            ]
         },
         {
             "avatarUrl": "https://pfpmaker.com/_nuxt/img/profile-3-1.3e702c5.png",
@@ -180,7 +271,18 @@
             "user": "Elsa",
             "imgUrl": "https://i.ytimg.com/vi/GYybj_jCf-g/hqdefault.jpg",
             "likes": 82,
-            "description": "Dream on"
+            "description": "Dream on",
+            "stories": [
+                {
+                    "video1": "video1"
+                },
+                {
+                    "video2": "video2"
+                },
+                {
+                    "video3": "video3"
+                }
+            ]
         },
         {
             "avatarUrl": "http://lavinephotography.com.au/wp-content/uploads/2017/01/PROFILE-Photography-112.jpg",
