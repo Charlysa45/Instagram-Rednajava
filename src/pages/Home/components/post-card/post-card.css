@@ -45,6 +45,7 @@ button{
 }
 .postCard-top-left-innerRight{
     margin-left: 12px;
+    text-transform: lowercase;
 }
 
 .postCard-top-left-innerRight span{

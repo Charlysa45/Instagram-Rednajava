@@ -1,0 +1,54 @@
+@media (max-width: 412px) and (max-height: 915px) {
+    #stories{
+        padding-top: 20px;
+        padding-bottom: 12px;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-bottom: 16px;
+        border-radius: 8px;
+        border: 1px solid rgb(216, 214, 214);
+        max-width: 412px;
+        overflow-x: scroll;
+    }
+
+    #stories ul{
+        display: flex;
+        margin: 0%;
+        padding: 0%;
+    }
+
+    #stories li{
+        list-style: none;
+        max-width: 56px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .stories-box{
+        position: relative;
+        text-align: center;
+    }
+
+    .stories-user-icon{
+        width: 56px;
+        height: 56px;
+        border-radius: 100%;
+    }
+    
+    .stories-frame{
+        position: absolute;
+        width: 66px;
+        height: 66px;
+        top: -5px;
+        right: -5px
+    }
+
+    .stories-username{
+        padding-top: 7px;
+        font-size: 12px;
+        max-width: 67px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        text-transform: lowercase;
+    }
+}
