@@ -11,19 +11,21 @@ import profileAvatar from '../../../../assets/header-profile-avatar.jpg'
 
 const Header = () => {
   return (
-    <header>
+    <div id='main-container'>
+      <header>
         <div id='header-logo'>
-            <img src={instaLogo} alt="Instagram Logo" id='header-logo-img'/>
+          <img src={instaLogo} alt="Instagram Logo" id='header-logo-img' />
         </div>
         <div id='header-options'>
-            <img src={homeIcon} alt="Home icon" className='header-options-icon'/>
-            <img src={messagesIcon} alt="Home icon" className='header-options-icon'/>
-            <img src={createIcon} alt="Home icon" className='header-options-icon'/>
-            <img src={exploreIcon} alt="Home icon" className='header-options-icon'/>
-            <img src={favsIcon} alt="Home icon" className='header-options-icon'/>
-            <img src={profileAvatar} alt="Home icon" id='header-profile-avatar'/>
+          <img src={homeIcon} alt="Home icon" className='header-options-icon' />
+          <img src={messagesIcon} alt="Home icon" className='header-options-icon' />
+          <img src={createIcon} alt="Home icon" className='header-options-icon' />
+          <img src={exploreIcon} alt="Home icon" className='header-options-icon' />
+          <img src={favsIcon} alt="Home icon" className='header-options-icon' />
+          <img src={profileAvatar} alt="Home icon" id='header-profile-avatar' />
         </div>
-    </header>
+      </header>
+    </div>
   )
 }
 
