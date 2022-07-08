@@ -127,3 +127,10 @@ button{
     color:#8b8b8b;
 }
 
+@media (min-width: 413px) {
+    .postCard{
+        max-width: 470px;
+        margin: 0 auto; 
+        margin-top: 25px;
+    }
+}
