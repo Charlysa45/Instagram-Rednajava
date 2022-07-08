@@ -1,4 +1,11 @@
 header {
+    border-bottom: 1px solid rgb(216, 214, 214);
+    position: sticky;
+    z-index: 1000;
+    background-color: #ffffff;
+    top: 0;
+}
+#header-main-container {
     padding-left: 16px;
     padding-right: 16px;
     padding-top: 12px;
@@ -9,14 +16,6 @@ header {
     align-items: center;
     max-width: 970px;
     margin: 0 auto;
-}
-
-#main-container {
-    border-bottom: 1px solid rgb(216, 214, 214);
-    position: sticky;
-    z-index: 1000;
-    background-color: #ffffff;
-    top: 0;
 }
 
 #header-logo {

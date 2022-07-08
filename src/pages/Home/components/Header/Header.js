@@ -11,8 +11,9 @@ import profileAvatar from '../../../../assets/header-profile-avatar.jpg'
 
 const Header = () => {
   return (
-    <div id='main-container'>
-      <header>
+
+    <header>
+      <div id='header-main-container'>
         <div id='header-logo'>
           <img src={instaLogo} alt="Instagram Logo" id='header-logo-img' />
         </div>
@@ -24,8 +25,9 @@ const Header = () => {
           <img src={favsIcon} alt="Home icon" className='header-options-icon' />
           <img src={profileAvatar} alt="Home icon" id='header-profile-avatar' />
         </div>
-      </header>
-    </div>
+      </div>
+    </header>
+
   )
 }
 
